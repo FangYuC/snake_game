@@ -1,0 +1,105 @@
+﻿  CppCLR_WinformsProjekt.cpp
+\\mac\Home\Desktop\computer_programming\Final_project\snake_game\snake_game\data_format.h(17,19): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 'file:///CppCLR_WinformsProjekt.cpp')
+  
+\\mac\Home\Desktop\computer_programming\Final_project\snake_game\snake_game\Form1.h(69,15): warning C4101: 'V': 未參考的區域變數
+  (編譯來源檔案 'file:///CppCLR_WinformsProjekt.cpp')
+  
+\\mac\Home\Desktop\computer_programming\Final_project\snake_game\snake_game\Form1.h(133,16): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'file:///CppCLR_WinformsProjekt.cpp')
+  
+\\mac\Home\Desktop\computer_programming\Final_project\snake_game\snake_game\Form1.h(134,16): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'file:///CppCLR_WinformsProjekt.cpp')
+  
+\\mac\Home\Desktop\computer_programming\Final_project\snake_game\snake_game\Form1.h(135,12): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'file:///CppCLR_WinformsProjekt.cpp')
+  
+\\mac\Home\Desktop\computer_programming\Final_project\snake_game\snake_game\Form1.h(136,12): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'file:///CppCLR_WinformsProjekt.cpp')
+  
+\\mac\Home\Desktop\computer_programming\Final_project\snake_game\snake_game\Form1.h(137,80): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'file:///CppCLR_WinformsProjekt.cpp')
+  
+\\mac\Home\Desktop\computer_programming\Final_project\snake_game\snake_game\Form1.h(137,66): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'file:///CppCLR_WinformsProjekt.cpp')
+  
+\\mac\Home\Desktop\computer_programming\Final_project\snake_game\snake_game\Form1.h(144,23): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'file:///CppCLR_WinformsProjekt.cpp')
+  
+\\mac\Home\Desktop\computer_programming\Final_project\snake_game\snake_game\Form1.h(145,33): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'file:///CppCLR_WinformsProjekt.cpp')
+  
+\\mac\Home\Desktop\computer_programming\Final_project\snake_game\snake_game\Form1.h(146,85): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'file:///CppCLR_WinformsProjekt.cpp')
+  
+\\mac\Home\Desktop\computer_programming\Final_project\snake_game\snake_game\Form1.h(146,71): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'file:///CppCLR_WinformsProjekt.cpp')
+  
+\\mac\Home\Desktop\computer_programming\Final_project\snake_game\snake_game\Form1.h(155,35): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'file:///CppCLR_WinformsProjekt.cpp')
+  
+\\mac\Home\Desktop\computer_programming\Final_project\snake_game\snake_game\Form1.h(156,45): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'file:///CppCLR_WinformsProjekt.cpp')
+  
+\\mac\Home\Desktop\computer_programming\Final_project\snake_game\snake_game\Form1.h(235,29): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'file:///CppCLR_WinformsProjekt.cpp')
+  
+\\mac\Home\Desktop\computer_programming\Final_project\snake_game\snake_game\Form1.h(167,14): warning C4101: 'mapFile': 未參考的區域變數
+  (編譯來源檔案 'file:///CppCLR_WinformsProjekt.cpp')
+  
+\\mac\Home\Desktop\computer_programming\Final_project\snake_game\snake_game\Form1.h(325,15): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'file:///CppCLR_WinformsProjekt.cpp')
+  
+\\mac\Home\Desktop\computer_programming\Final_project\snake_game\snake_game\Form1.h(326,15): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'file:///CppCLR_WinformsProjekt.cpp')
+  
+\\mac\Home\Desktop\computer_programming\Final_project\snake_game\snake_game\Form1.h(383,24): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'file:///CppCLR_WinformsProjekt.cpp')
+  
+\\mac\Home\Desktop\computer_programming\Final_project\snake_game\snake_game\Form1.h(384,24): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'file:///CppCLR_WinformsProjekt.cpp')
+  
+\\mac\Home\Desktop\computer_programming\Final_project\snake_game\snake_game\Form1.h(385,28): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'file:///CppCLR_WinformsProjekt.cpp')
+  
+\\mac\Home\Desktop\computer_programming\Final_project\snake_game\snake_game\Form1.h(386,28): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'file:///CppCLR_WinformsProjekt.cpp')
+  
+\\mac\Home\Desktop\computer_programming\Final_project\snake_game\snake_game\Form1.h(395,15): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'file:///CppCLR_WinformsProjekt.cpp')
+  
+\\mac\Home\Desktop\computer_programming\Final_project\snake_game\snake_game\Form1.h(420,18): warning C4477: 'fscanf' : 格式字串 '%f' 需要 'float *' 類型的引數，但 variadic 引數 1 的類型為 'int *'
+  (編譯來源檔案 'file:///CppCLR_WinformsProjekt.cpp')
+  
+\\mac\Home\Desktop\computer_programming\Final_project\snake_game\snake_game\Form1.h(564,14): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'file:///CppCLR_WinformsProjekt.cpp')
+  
+\\mac\Home\Desktop\computer_programming\Final_project\snake_game\snake_game\Form1.h(565,19): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'file:///CppCLR_WinformsProjekt.cpp')
+  
+\\mac\Home\Desktop\computer_programming\Final_project\snake_game\snake_game\Form1.h(566,19): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'file:///CppCLR_WinformsProjekt.cpp')
+  
+\\mac\Home\Desktop\computer_programming\Final_project\snake_game\snake_game\Form1.h(567,23): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'file:///CppCLR_WinformsProjekt.cpp')
+  
+\\mac\Home\Desktop\computer_programming\Final_project\snake_game\snake_game\Form1.h(568,23): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'file:///CppCLR_WinformsProjekt.cpp')
+  
+\\mac\Home\Desktop\computer_programming\Final_project\snake_game\snake_game\Form1.h(1027,21): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'file:///CppCLR_WinformsProjekt.cpp')
+  
+\\mac\Home\Desktop\computer_programming\Final_project\snake_game\snake_game\Form1.h(1060,21): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'file:///CppCLR_WinformsProjekt.cpp')
+  
+\\mac\Home\Desktop\computer_programming\Final_project\snake_game\snake_game\Form1.h(1065,22): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'file:///CppCLR_WinformsProjekt.cpp')
+  
+\\mac\Home\Desktop\computer_programming\Final_project\snake_game\snake_game\Form1.h(1069,22): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'file:///CppCLR_WinformsProjekt.cpp')
+  
+\\mac\Home\Desktop\computer_programming\Final_project\snake_game\snake_game\Form1.h(1074,21): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'file:///CppCLR_WinformsProjekt.cpp')
+  
+  AssemblyInfo.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
+  snake_game.vcxproj -> \\Mac\Home\Desktop\computer_programming\Final_project\snake_game\Debug\snake_game.exe
